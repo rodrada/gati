@@ -1,5 +1,10 @@
 
-# Efficient querying of geospatial networks: A comparison between Object-Relational and Graph databases.
+<h1 align="center">
+   गति - Gáti
+   <div>
+   <sub><sup>/ɡɐ́.ti/</sup></sub>
+   </div>
+</h1>
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostGIS-336791)
@@ -8,9 +13,11 @@
 ![License](https://img.shields.io/badge/License-GPLv3-green)
 
 > **Bachelor's Thesis (Trabajo de Fin de Grado)**  
+> **Title:** Efficient querying of geospatial networks  
 > **Author:** Daniel Ramos Rodríguez  
 > **University:** Universidad de Santiago de Compostela (USC)  
-> **Date:** February 2026
+> **Date:** February 2026  
+> **Grade:** 10/10  
 
 ## 📋 About The Project
 
