@@ -17,7 +17,6 @@ Scripts/scrape_mdb.py
 *.toc
 *.bbl
 *.blg
-*.pdf
 *.req
 *.lot
 *.lof
